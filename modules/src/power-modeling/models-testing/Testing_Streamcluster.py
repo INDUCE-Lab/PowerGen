@@ -5,8 +5,6 @@ Title:        PowerGen Toolkit
 Description:  PowerGen (Power Generation Dataset) Toolkit for Generating Resources Utlization and Corresponding Power Consumption in Edge and Cloud Computing Data Centers
 Licence:      GPL - http://www.gnu.org/copyleft/gpl.html
 
-Copyright (c) 2024, Intelligent Distributed Computing and Systems (INDUCE) Lab, The United Arab Emirates University, United Arab Emirates
-
 If you are using any ideas, algorithms, packages, codes, datasets, workload, results, and plots, included in the power-modeling directory please cite
 the following paper:
 
