@@ -16,8 +16,7 @@ The major conrributions of this work are as follows:
 
 ## Cite this work
 
-Leila Ismail, and Huned Materwala, "PowerGen: Resources Utilization and Power Consumption Data Generation Framework for Energy Prediction in Edge and Cloud Computing",
-ANT 2024
+Ismail, Leila, and Huned Materwala. "PowerGen: Resources Utilization and Power Consumption Data Generation Framework for Energy Prediction in Edge and Cloud Computing." Procedia Computer Science 238 (2024): 385-395.
 
 ## References
 
